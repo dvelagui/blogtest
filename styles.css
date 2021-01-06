@@ -19,3 +19,21 @@ p {
     text-align: center;
     border: 2px solid black;
 }
+
+.cabecera {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.menu li {
+    padding: 5px;
+    text-decoration: none;
+    list-style: none;
+}
