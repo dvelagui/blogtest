@@ -12,3 +12,9 @@ p {
     color: green;
     font-style: oblique;
 }
+
+.container {
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+}
